@@ -57,18 +57,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sthephany-gadelha-99324b3b7/" target="_blank">
-    <img src="imagens/linkedin.jpeg" width="150" alt="LinkedIn">
+    <img src="imagens/linkedin.jpeg" width="120" alt="LinkedIn">
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXU3Z2s2dm8zNWsycHU3aTlvdGxva2NxdGcxMDMwcDExanNwMXYxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3LcK0Vhxl49aR14044/giphy.gif" width="35" alt="Separador">
 
-  <a href="mailto:seuemail@gmail.com">
-    <img src="imagens/email.jpeg" width="150" alt="Email">
+  <a href="mailto:sthephanygadelha2008@gmail.com">
+    <img src="imagens/email.jpeg" width="120" alt="Email">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Obrigado%20por%20visitar!%20:)&fontColor=FFFFFF&fontSize=35" />
 </p>
 
 <p align="center">
