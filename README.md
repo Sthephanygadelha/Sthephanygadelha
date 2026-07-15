@@ -62,7 +62,7 @@
 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXU3Z2s2dm8zNWsycHU3aTlvdGxva2NxdGcxMDMwcDExanNwMXYxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3LcK0Vhxl49aR14044/giphy.gif" width="35" alt="Separador">
 
-  <a href="mailto:sthephanygadelha2008@gmail.com">
+  <a href="mailto:sthephanygadelha2008@gmail.com?subject=Contato%20pelo%20GitHub">
     <img src="imagens/email.jpeg" width="120" alt="Email">
   </a>
 </p>
