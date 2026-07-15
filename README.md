@@ -3,31 +3,67 @@
 <div>  
 <img src="imagens/eu.png" width="190" align="right" style="border-radius:20px;">
 <br/>
-<img src="imagens/sobremim.jpeg" width="200" style="border-radius:20px;">
+<p align="center">
+  <img src="imagens/sobremim.jpeg" width="200">
+    </p>
 <br/>
 <br/>
 
-🟣Nome: **Sthephany Gadelha**.
-
-🟣Local: **Recife-PE**.
-
-🟣**Atualmente cursando Ánalise e Desenvolvimento de Sistemas na UNIT PE**
+🟣**Olá! Me chamo Sthephany Gadelhan tenho 18 naos e moro em Recife PE. Atualmente curso Análise e Desenvolvimento de Sistemas na UNIT PE pelo programa Embarque Digital.**
 
   
 <!-- Stats-->
-<h1 align="center">Stats</h1>
-<br/>
-<p align="center">
+<h1 align="center">📊 Stats</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sthephanygadelha&theme=shadow-purple&locale=pt_BR)](https://git.io/streak-stats)
+<table align="center">
+<tr>
 
-</p>
+<td align="center">
+  
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Sthephanygadelha&theme=shadow-purple&locale=pt_BR" />
+</a>
 
-<h1 align="center">Redes Sociais</h1>
+</td>
+
+<td align="center">
+
+<h3>💜 Tech Stack</h3>
+
+<b>💻 Linguagens</b><br>
+<img src="https://skillicons.dev/icons?i=java,js,python" />
+
+<br><br>
+
+<b>🌐 Front-end</b><br>
+<img src="https://skillicons.dev/icons?i=html,css,react,angular" />
+
+<br><br>
+
+<b>⚙️ Back-end & Banco</b><br>
+<img src="https://skillicons.dev/icons?i=spring,mysql,php" />
+
+<br><br>
+
+<b>🛠️ Ferramentas</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
+</td>
+
+</tr>
+</table>
+
+<h1 align="center">🌐 Redes Sociais</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sthephany-gadelha-99324b3b7/" target="_blank">
-    <img src="imagens/linkedin.jpeg" width="120" alt="LinkedIn">
+    <img src="imagens/linkedin.jpeg" width="150" alt="LinkedIn">
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:seuemail@gmail.com">
+    <img src="imagens/email.jpeg" width="150" alt="Email">
   </a>
 </p>
 
