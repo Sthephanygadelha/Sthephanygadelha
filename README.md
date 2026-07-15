@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C096C,50:7B2CBF,100:C77DFF&height=200&section=header&text=Sthephany%20Gadelha%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C096C,50:7B2CBF,100:C77DFF&height=200&section=header&text=Sthephany%20Gadelha%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvimento%20de%20Sistemas%20e%20Cloud%20Computing" width="100%"/>
 
 
 <img src="imagens/eu.png" width="190" align="right">
